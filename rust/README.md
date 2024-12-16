@@ -12,5 +12,12 @@ Day 1 - Part 1 : 1765812
 Day 1 - Part 2 : 20520794
 	generator: 66.542µs,
 	runner: 54.083µs
-```
 
+Day 2 - Part 1: 686
+	generator: 2.493709ms,
+	runner: 209.958µs
+
+Day 2 - Part 2: 717
+	generator: 2.37ms,
+	runner: 1.618875ms
+```
